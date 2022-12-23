@@ -1,4 +1,5 @@
 ### Hi there 👋
+### My name is David, I'm a college student majoring in Computer Systems 😄
 
 <!--
 **DavidJacquet/DavidJacquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
