@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="">David</a>, an College Student majoring in a B.S. in Computer Systems☺</h1>
+<h1>Hi, I'm <a href="">David</a>, an College Student majoring in a B.S. in Computer Systems😄</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
