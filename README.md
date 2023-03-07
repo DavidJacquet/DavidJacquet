@@ -19,6 +19,5 @@
 [<img align="left" alt="David | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/microsoftoutlook.svg" />][Outlook]
 
 [twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/
 [Outlook]: Davidptin6@outlook.com
